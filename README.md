@@ -7,7 +7,6 @@ In this assignment, you will build a web application that scrapes various websit
 Complete initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
 ###### Set up Mission to Mars jupyter notebook
-
 ```python
 # Import Splinter, BeautifulSoup, and Pandas
 from splinter import Browser
